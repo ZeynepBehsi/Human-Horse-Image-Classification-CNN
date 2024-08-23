@@ -1,0 +1,8 @@
+- Tensorflow
+- Keras
+- Numpy
+- Matplotlib
+- requests
+- zipfile
+- os
+- pillow
